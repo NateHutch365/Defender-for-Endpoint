@@ -113,7 +113,7 @@ This is the endpoint used in the original investigation. Confirm that the config
 Obtain the Microsoft onboarding package from the Defender portal under **Settings > Endpoints > Onboarding**, selecting the appropriate operating system and non-persistent VDI deployment option where available.
 
 > [!IMPORTANT]
-> Do not upload your tenant-specific Microsoft onboarding package to a public GitHub repository. Obtain the original onboarding files directly from your own Defender portal. For non-persistent VDI, follow Microsoft's guidance on preparing the master image without onboarding it.
+> Obtain the original onboarding files directly from your own Defender portal. For non-persistent VDI, follow Microsoft's guidance on preparing the master image without onboarding it.
 
 ## Deployment via Group Policy
 
